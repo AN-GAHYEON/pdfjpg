@@ -1,5 +1,1 @@
 streamlit
-fitz
-Image
-io
-zipfile
